@@ -2,7 +2,8 @@
 
 > An Unofficial Gmail native web client built with Electron JS.
 
-<br>
+
+
 [![](lib/media/screenshot.png)](https://github.com/paulot/gmail/releases/latest)
 [![](lib/media/dock.png)](https://github.com/paulot/gmail/releases/latest)
 
